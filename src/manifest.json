@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "bea20890d5944c2eab5f453d8d21bf46",
+	"app_min_version": "3.2",
+	"version": "1.0.0",
+	"name": "Git Versioning",
+	"description": "Trigger git commit and synchronization for current note",
+	"author": "William Hicks",
+	"homepage_url": "https://github.com/wphicks/joplin_git_versioning",
+	"repository_url": "https://github.com/wphicks/joplin_git_versioning",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
